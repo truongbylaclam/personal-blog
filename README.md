@@ -13,6 +13,11 @@ It will include things below:
 <p> - Login system that using Google API.</p>
 </p>
 
-Build with REACT, Express.
-Fully customizable
+Build with:
+- REACT
+- Express.
+- Node.js
+- MongoDB
+
+Feel free to leave feedback.
 <h3>Ryan Dinh</h3>
